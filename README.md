@@ -82,7 +82,7 @@ We have to repeat the literal procedure for printing the value of `phrase` ten
 times. If variables encapsulate and abstract data, methods encapsulate and
 abstract procedure. Instead of literally `puts phrase` ten times, we can instead
 build a method—a little machine that does exactly that whenever we want.
-
+hello
 The method would look like this:
 
 ```ruby
